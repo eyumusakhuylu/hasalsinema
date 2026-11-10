@@ -1,6 +1,6 @@
 # HASAL Cinema Club Website
 
-Website for the cinema club of Hüseyin Avni Sözen Anatolian High School (HASAL) in Istanbul. I built it in summer 2024, while I was president of the club.
+Website for the cinema club of Hüseyin Avni Sözen Anatolian High School (HASAL) in Istanbul. I built it in summer 2023, after I was president of the club.
 
 The site presents the club, its short films and its events.
 
